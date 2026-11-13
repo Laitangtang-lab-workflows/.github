@@ -4,7 +4,7 @@ Open-source workflows and infrastructure for simulation-driven research — main
 
 ## What lives here
 
-Nine agent skills (SKILL.md format — usable with Claude Code, DeepSeek Harness and compatible harnesses, or as plain documentation) covering the full research toolchain:
+Nine agent skills (SKILL.md format — usable with Claude Code, DeepSeek Harness and compatible harnesses, or as plain documentation) covering the full research toolchain, plus one DSH (DeepSeek Harness) web-client plugin:
 
 | Repository | Domain |
 |---|---|
@@ -17,6 +17,7 @@ Nine agent skills (SKILL.md format — usable with Claude Code, DeepSeek Harness
 | [note-gen](https://github.com/Laitangtang-lab-workflows/note-gen) | Curating a research literature library with an AI in the loop |
 | [lit-symbol-translation](https://github.com/Laitangtang-lab-workflows/lit-symbol-translation) | The discipline for using formulas and numbers from the literature |
 | [adobe-manual](https://github.com/Laitangtang-lab-workflows/adobe-manual) | Driving Illustrator and Photoshop from AI agents (MCP + COM + JSX) |
+| [dsh-html-preview](https://github.com/Laitangtang-lab-workflows/dsh-html-preview) | Live HTML preview inside DSH chat (fenced html blocks auto-render in a sandboxed iframe) |
 
 ## All projects are AI-maintained
 
